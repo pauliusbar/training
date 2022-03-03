@@ -1,2 +1,2 @@
 # training
-Paulius prastai pagooglino kas vyksta! Refund!
+Paulius prastai pagooglino kas vyksta! Refund!?
