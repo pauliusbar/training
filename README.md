@@ -1,23 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 2010a82 (Update README.md)
-=======
->>>>>>> parent of 2010a82 (Update README.md)
-=======
->>>>>>> parent of 2010a82 (Update README.md)
-=======
-=======
->>>>>>> 8829ddb3370825561c0a2d72a3fb46311b849cce
-
 Hello world!
 
-
->>>>>>> parent of 56a8aa2 (Update README.md)
 What is Git?
 Git is a distributed version control system. This means that a local clone of the project is a complete version control repository. These fully-functional local repositories make it is easy to work offline or remotely. Developerssdfgh commit their work locally, and then sync their copy of the repository with the copy on the server. ( 
 
@@ -36,22 +18,6 @@ Branches can be understood as a fork in a river (repository) where each fork has
 Later, downstream, these branches can be merged into master branch. Terms Downstream and Upstream are actually used when describing where changes are added along its development. Upstream means somewhere where code repository is stored in a centralized way. For example, when user clones (downloads) a repository, local repository can be considered downstream and repository stored in GitHub can be considered upstream (this GitHub repository is also called origin). This is more obvious when considering projects that depend on multiple repositories, like Chrome is a downstream repository to Chromium (it's open source version).
 
 Data team currently is not using multiple repositories and down or upstream terms are not really relevant.
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-# training
+
 Paulius prastai pagooglino kas vyksta! Refund!?
 LIUTAURAS STATO
->>>>>>> parent of 7762e2f (Update README.md)
-=======
-# training
-Paulius prastai pagooglino kas vyksta! Refund!?
-LIUTAURAS STATO
->>>>>>> parent of 7762e2f (Update README.md)
-=======
->>>>>>> parent of 2010a82 (Update README.md)
-=======
->>>>>>> parent of 2010a82 (Update README.md)
-=======
->>>>>>> parent of 2010a82 (Update README.md)
