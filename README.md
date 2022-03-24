@@ -3,21 +3,26 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 2010a82 (Update README.md)
 =======
 >>>>>>> parent of 2010a82 (Update README.md)
 =======
 >>>>>>> parent of 2010a82 (Update README.md)
+=======
+=======
+>>>>>>> 8829ddb3370825561c0a2d72a3fb46311b849cce
 
 Hello world!
 
-Yada yada yada! 
+
+>>>>>>> parent of 56a8aa2 (Update README.md)
 What is Git?
 Git is a distributed version control system. This means that a local clone of the project is a complete version control repository. These fully-functional local repositories make it is easy to work offline or remotely. Developers commit their work locally, and then sync their copy of the repository with the copy on the server. ( 
 
  )
-
+qasdfghjkl
 Here, at TransferGo we use GitHub (
 ) as an online repository storage.
 How Git works?
