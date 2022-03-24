@@ -11,6 +11,10 @@ Here, at TransferGo we use GitHub (
 ) as an online repository storage.
 How Git works?
 
+
+
+Something somewhere somewhat somehow 
+
 Git is designed specifically to help developers collaborate on various projects. It is not a backup tool, is not designed to store data and/or media files.
 
 To save changes user has to commit these changes. After commit Git saves changes (not a full copy). It is possible to look into previous commit changes and if needed to revert back. Developers are able to work on multiple changes simultaneously because of concept known as Branches.
