@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Hello world!
 
@@ -20,3 +21,8 @@ Branches can be understood as a fork in a river (repository) where each fork has
 Later, downstream, these branches can be merged into master branch. Terms Downstream and Upstream are actually used when describing where changes are added along its development. Upstream means somewhere where code repository is stored in a centralized way. For example, when user clones (downloads) a repository, local repository can be considered downstream and repository stored in GitHub can be considered upstream (this GitHub repository is also called origin). This is more obvious when considering projects that depend on multiple repositories, like Chrome is a downstream repository to Chromium (it's open source version).
 
 Data team currently is not using multiple repositories and down or upstream terms are not really relevant.
+=======
+# training
+Paulius prastai pagooglino kas vyksta! Refund!?
+LIUTAURAS STATO
+>>>>>>> parent of 7762e2f (Update README.md)
