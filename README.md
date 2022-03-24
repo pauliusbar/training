@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 frfefv# training
 bnjrwribnnklkvvjkffjkbd
@@ -22,3 +23,8 @@ Later, downstream, these branches can be merged into master branch. Terms Downst
 
 Data team currently is not using multiple repositories and down or upstream terms are not really relevant.
 >>>>>>> 7762e2f431a7b95cfc43a4a284b90dce6461fed9
+=======
+# training
+Paulius prastai pagooglino kas vyksta! Refund!?
+LIUTAURAS STATO
+>>>>>>> parent of 7762e2f (Update README.md)
