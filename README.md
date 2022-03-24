@@ -1,16 +1,8 @@
-
-Hello world!
-
-Yada yada yada! 
-bla bla bla
-
-HELLO
-
 What is Git?
 Git is a distributed version control system. This means that a local clone of the project is a complete version control repository. These fully-functional local repositories make it is easy to work offline or remotely. Developers commit their work locally, and then sync their copy of the repository with the copy on the server. ( 
 
  )
-
+qasdfghjkl
 Here, at TransferGo we use GitHub (
 ) as an online repository storage.
 How Git works?
