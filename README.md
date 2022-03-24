@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 2010a82 (Update README.md)
 =======
 >>>>>>> parent of 2010a82 (Update README.md)
 
@@ -26,6 +29,7 @@ Later, downstream, these branches can be merged into master branch. Terms Downst
 
 Data team currently is not using multiple repositories and down or upstream terms are not really relevant.
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # training
 Paulius prastai pagooglino kas vyksta! Refund!?
@@ -36,5 +40,7 @@ LIUTAURAS STATO
 Paulius prastai pagooglino kas vyksta! Refund!?
 LIUTAURAS STATO
 >>>>>>> parent of 7762e2f (Update README.md)
+=======
+>>>>>>> parent of 2010a82 (Update README.md)
 =======
 >>>>>>> parent of 2010a82 (Update README.md)
